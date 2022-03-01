@@ -1,3 +1,4 @@
+//starter code inspired by Zane Cochran 
 
 // States
 #include "tinysnore.h"  // Include TinySnore Library
